@@ -16,6 +16,7 @@ $ gh do
 export GH_HOST=github.com
 export GH_TOKEN=gho_xxxxxXXXXXXXXxxxxxxxXXXXXXXXXxxXXxxx
 export GH_ENTERPRISE_TOKEN=
+export GHE_TOKEN=
 export GITHUB_ENTERPRISE_TOKEN=
 export GITHUB_TOKEN=gho_xxxxxXXXXXXXXxxxxxxxXXXXXXXXXxxXXxxx
 export GITHUB_API_URL=https://api.github.com
@@ -40,6 +41,7 @@ $ gh-do --hostname enterprise.internal
 export GH_HOST=enterprise.internal
 export GH_TOKEN=gho_yyyyyYYYYYYYYyyyyyyyYYYYYYYYYyyYYyyy
 export GH_ENTERPRISE_TOKEN=gho_yyyyyYYYYYYYYyyyyyyyYYYYYYYYYyyYYyyy
+export GHE_TOKEN=gho_yyyyyYYYYYYYYyyyyyyyYYYYYYYYYyyYYyyy
 export GITHUB_ENTERPRISE_TOKEN=gho_yyyyyYYYYYYYYyyyyyyyYYYYYYYYYyyYYyyy
 export GITHUB_TOKEN=gho_yyyyyYYYYYYYYyyyyyyyYYYYYYYYYyyYYyyy
 export GITHUB_API_URL=https://enterprise.internal/api/v3
