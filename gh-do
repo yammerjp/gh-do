@@ -1,7 +1,7 @@
 #!/bin/bash
 set -e
 
-repo="github.com/k1LoW/gh-do"
+repo="github.com/yammerjp/gh-do"
 tag="$(gh release list -R "$repo" --limit 1 | cut -f 1)"
 
 extensionPath="$(dirname "$0")"
